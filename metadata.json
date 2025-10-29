@@ -1,0 +1,8 @@
+{
+  "name": "OmniStream Studio",
+  "description": "A comprehensive podcast streaming application that leverages AI to create talking animations from images, generate text-to-speech audio, and manage a media library. Users can stream from their webcam or broadcast generated content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
